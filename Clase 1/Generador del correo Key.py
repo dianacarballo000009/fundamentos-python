@@ -1,0 +1,5 @@
+nombre1 = input("Ingrese su primer nombre: ")
+nombre2 = input("Ingrese su segundo nombre: ")
+apellido1 = input("Ingrese su primer apellido: ")
+apellido2 = input("Ingrese su segundo apellido: ")
+print(f"Tu correo es: {nombre1}.{apellido1}@keyinstitute.edu.sv")
